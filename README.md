@@ -4,14 +4,16 @@ I am a 1st-year HDFS PhD student at Auburn University.
 
 My research interests include computational neuroimaging, statistics, and methodology, with a secondary interest in astrophysics. I previously worked as a student therapist and bring three years of clinical experience to my dynamic research background.
 
-### FMRI Projects
+### Neuroimaging Projects
 
 Here is the handbook I developed while teaching myself fMRI:
 - [fMRI Data Processing Manual](https://qiuyuyu3.github.io/fMRI-Data-Processing-Manual-on-HPC/)
 - [fMRI Workshop](https://github.com/QiuyuYu3/FMRI-Workshop)
 
-Open-source tools I created for fMRI data analysis:
-- [Neuroimaging Pipeline](https://github.com/GeorgiaCenterforDevelopmentalScience/Neuro-Pipeline) - a modular neuroimaging preprocessing meta pipeline for HPC clusters, with both a GUI and CLI.
+Open-source tools I created for neuroimaging data analysis:
+- [NIRSPipe](https://github.com/AU-CONNECT-Lab/NIRSPipe) - a BIDS-compatible fNIRS pipeline for preprocessing, postprocessing, hyperscanning, and QC, with a CLI, a desktop GUI, and HTML QC reports.
+- [ConnGraph](https://github.com/QiuyuYu3/ConnGraph) - a Python package for brain connectivity analysis across fMRI, fNIRS, and EEG/MEG, covering graph-theory metrics, group comparisons, and network-based statistics, with HTML reports and 3-D brain figures.
+- [NeuroMaestro](https://github.com/GeorgiaCenterforDevelopmentalScience/NeuroMaestro) - a modular neuroimaging preprocessing meta pipeline for HPC clusters, with both a GUI and CLI.
 - [fMRI-QCtoolkit](https://github.com/QiuyuYu3/fMRI-QCtoolkit) - a modular Python package for fMRI QC, integrating quantitative metrics from MRIQC, fMRIPrep, and AFNI, along with manual scoring. 
 
 ### Other Research Tools:
